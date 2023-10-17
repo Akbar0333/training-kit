@@ -11,10 +11,8 @@ String inputs;
 int value = A5; //moter reding waire
 //newturn pins 4 7 10
 int values=0,sete=0;
-
 #define bling 10//mode
 #define Relay1 6//mode led
-
 #define bazar 8 //bazar
 #define r2 9 //timer start send > A4
 #define moter 11 //on relay man time
